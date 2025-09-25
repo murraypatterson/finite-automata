@@ -1,0 +1,6 @@
+start even
+final even
+trans even:a:odd
+trans even:b:even
+trans odd:a:even
+trans odd:b:odd
