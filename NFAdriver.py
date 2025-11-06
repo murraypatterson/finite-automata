@@ -17,7 +17,7 @@ def atm(sig, m) :
 
 # parse info from FA encoding and display it
 
-data = open('absorbsa.nfa').read()
+data = open('asborabs.nfa').read()
 start, finals, transitions = parser.parse(data)
 
 print('start:', start)
