@@ -1,0 +1,8 @@
+start q0
+final q2 q3 q4
+trans q0:a:q1
+trans q1:a:q1
+trans q1:b:q2
+trans q0:b:q3
+trans q0:a:q4
+trans q4:b:q4
